@@ -1,0 +1,1 @@
+{["privUsers"]={["Player"]=true,},["MESide"]="top",["trackLoc"]={["y"]=1,["x"]=1,},["outputLoc"]={["l"]=40,["y"]=40,["x"]=400,},["hereDefault"]={["z"]=1292,["y"]=64,["x"]=-981,},["worldFilter"]="world",["hereSpawn"]={["z"]=1035,["y"]=65,["x"]=910,},}
